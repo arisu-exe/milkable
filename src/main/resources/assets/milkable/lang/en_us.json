@@ -1,0 +1,8 @@
+{
+  "block.milkable.ink" : "Ink",
+
+  "item.milkable.ink_bucket" : "Ink Bucket",
+
+  "fluid.milkable.ink" : "Ink",
+  "fluid.milkable.flowing_ink" : "Flowing Ink"
+}
